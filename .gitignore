@@ -1,3 +1,6 @@
+# custom additions
+processed_tokens.json.gz
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
