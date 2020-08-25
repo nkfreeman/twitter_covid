@@ -1,6 +1,9 @@
 # custom additions
 processed_tokens.json.gz
 NLP_Crash_Course\ -\ Part\ 2.ipynb
+model_files/
+vis_files/
+data/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/

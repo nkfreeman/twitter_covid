@@ -26,9 +26,9 @@ dependencies:
   - botocore=1.12.189=py_0
   - brotlipy=0.7.0=py37he774522_1000
   - bzip2=1.0.8=he774522_0
-  - ca-certificates=2020.6.20=hecda079_0
+  - ca-certificates=2020.6.24=0
   - cachetools=4.1.0=py_1
-  - certifi=2020.6.20=py37hc8dfbb8_0
+  - certifi=2020.6.20=py37_0
   - cffi=1.14.0=py37h7a1dbc1_0
   - chardet=3.0.4=py37_1003
   - click=7.1.2=py_0
@@ -44,6 +44,7 @@ dependencies:
   - diff-match-patch=20181111=py_0
   - docutils=0.16=py37_1
   - entrypoints=0.3=py37_0
+  - et_xmlfile=1.0.1=py_1001
   - expat=2.2.9=h33f27b4_2
   - fiona=1.8.4=py37h22081e2_0
   - flake8=3.8.3=py_0
@@ -76,6 +77,7 @@ dependencies:
   - ipython_genutils=0.2.0=py37_0
   - ipywidgets=7.5.1=py_0
   - isort=4.3.21=py37_0
+  - jdcal=1.4.1=py_0
   - jedi=0.14.1=py37_0
   - jinja2=2.11.2=py_0
   - jmespath=0.9.4=py_0
@@ -140,7 +142,8 @@ dependencies:
   - numpydoc=1.0.0=py_0
   - olefile=0.46=py37_0
   - opencv=4.1.1=py37h6afde12_1
-  - openssl=1.1.1g=he774522_0
+  - openpyxl=3.0.4=py_0
+  - openssl=1.1.1g=he774522_1
   - packaging=20.4=py_0
   - pandas=1.0.5=py37h47e9c7a_0
   - pandoc=2.9.2.1=0
@@ -251,6 +254,7 @@ dependencies:
   - winpty=0.4.3=4
   - wrapt=1.11.2=py37he774522_0
   - xerces-c=3.2.2=ha925a31_0
+  - xlrd=1.2.0=py37_0
   - xz=5.2.5=h62dcd97_0
   - yaml=0.2.5=he774522_0
   - yapf=0.30.0=py_0
@@ -258,5 +262,5 @@ dependencies:
   - zipp=3.1.0=py_0
   - zlib=1.2.11=h62dcd97_4
   - zstd=1.4.4=ha9fde0e_3
-prefix: C:\Anaconda3\envs\ht_env
+prefix: C:\Anaconda3\envs\twitter_nlp_env
 
